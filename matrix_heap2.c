@@ -92,8 +92,8 @@ int main(int argc, char const *argv[])
   display(mat, n, m);
   
   //clean up
-  //freeMatrix(m1,n);
-  //freeMatrix(m2,n);
-  //freeMatrix(mat,n);
+  freeMatrix(m1,n);
+  freeMatrix(m2,n);
+  freeMatrix(mat,n);
   return 1;
 }
