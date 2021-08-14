@@ -70,3 +70,23 @@ b) n = 3 si m = 3 si matricea Matrix va fi:
 0 1 0
 
 Output -> Functia este injectiva / Functia este surjectiva
+
+## #3
+Sa se elimine dintr-o matrix M de timp (m, n) liniile si coloanele la a caror intersectie se gaseste valoarea v data. Daca valoarea v se gaseste de mai multe ori in cadrul matricei, se vor elimina liniile si coloanele corespunzatoare pentru fiecare aparitie.
+
+Exemple:
+
+n = 4, m = 5, v = 3;
+
+    1 7 3 8 12    
+    
+M = 2 15 7 9 4
+
+    5 9 35 2 3
+    
+    31 6 14 0 25
+    
+    M' = 2 15 9
+         31 6 0
+    
+    
