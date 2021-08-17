@@ -157,3 +157,28 @@ Dreapta: S2 = 59
 Jos: S3 = 87
 
 Stanga: S4 = 45
+
+## #6
+
+O matrice rara (avand majoritatea elementelor nule) se memoreaza sub forma a doi vectori: unul continand valorile elementelor nenule, celalalt continand
+pozitiile elementelor nenule (pozitia se exprima printr-un numar care rezulta din parcurgerea pe linii a matricei, fiecare linie fiind parcursa de la stanga la dreapta). Pentru n > 0 (ordinul matricei rare) si doi vectori ce retin valorile si pozitiile elementelor nenule dintr-o matrice rara ca date de intrare, sa se 
+genereze si sa se afiseze pe ecran matricea rara.
+
+Input: 
+
+n = 5
+
+Val = [7,6,9]
+
+Pos = [8,15,21]
+
+Output:
+
+Matrix = 
+
+     0 0 0 0 0
+     0 0 7 0 0
+     0 0 0 0 6
+     0 0 0 0 0
+     9 0 0 0 0
+
