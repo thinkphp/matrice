@@ -222,4 +222,45 @@ Elementele care indeplinesc conditia sunt 5 si 9. Se elimina linia 2 si coloana 
        2 8 8
        
        4 16 8
+       
+## #9
+Se da o matrice binara M de tip (n,m). Sa se afiseze toate perechile de linii complementare din matrice, fiecare linie fiind reprezentata prin indicele sau. 
+Doua linii se numesc complementare daca suma elementelor de pe aceeasi coloana este 1.
 
+Exemple:
+
+Input -> M(4,4)
+        
+        1 0 1 1
+        
+        1 1 0 0
+        
+        0 1 0 0
+        
+        0 0 1 1
+
+Output -> (1,3), (2,4)
+
+## #10
+
+Se considera o matrice M cu n linii si m coloane. Sa se afle numarul liniilor ale caror elemente sunt in ordine crescatoare.
+
+Input: n = 3, m = 3
+
+       1 2 3
+       
+       4 5 6
+       
+       0 6 2
+       
+Output -> "Exista 2 linii ale caror elemente sunt in ordine crescatoare."
+
+Input: n = 3, m = 3
+
+       1 3 2
+       
+       0 8 5
+       
+       1 5 3
+       
+Output -> "Nu exista linii ale caror elemente sunt in ordine crescatoare."
