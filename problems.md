@@ -124,4 +124,17 @@ m = 4
 0
 
 5
-    
+
+## #5
+Se da o matrice patratica de ordinul n > 1. Trasandu-se cele doua diagonale ale matricei, se obtin patru regiuni in forma de triunghi. Sa se
+calculeze sumele elementelor din interiorul acestor triunghiuri (elementele de pe diagonale nu se iau in considerare).
+
+n = 5
+
+Matrix -->
+
+ 1  2  3  4  5
+
+ 6  7  8  9 10
+
+11 12 13 14 15
