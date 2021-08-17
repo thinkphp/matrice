@@ -182,3 +182,19 @@ Matrix =
      0 0 0 0 0
      9 0 0 0 0
 
+## #7
+Sa se genereze matricea patratica Matrix de ordinul n ce se completeaza cu termenii sirului lui Fibonacci de rang > 0. Completarea se va face pe linii.
+
+Exemple:
+
+n = 3
+
+Output: 
+
+      1 1 2
+      
+      3 5 8
+      
+      13 21 34
+       
+
