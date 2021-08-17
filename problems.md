@@ -264,3 +264,33 @@ Input: n = 3, m = 3
        1 5 3
        
 Output -> "Nu exista linii ale caror elemente sunt in ordine crescatoare."
+
+## #11
+
+Un pluton de soldati formeaza o coloana de defilare care are m randuri, cu n soldati pe rand. De pe fiecare rand este este ales cel mai scund soldat, iar dintre cei alesi cel mai inalt primeste primul steag. Apoi, de pe fiecare rand este ales cel mai inalt soldat, iar dintre cei alesi cel mai scund primeste al doilea steag. In cazul in care exista mai mult soldati cu aceeasi lungime selectata, se alege primul dintre ei. Sa se afiseze inaltimile celor doi purtatori de steag, precum si pozitia lor in pluton. Numarul m > 1 de randuri, numarul n > 1 de soldati pe un rand si inaltimile soldatilor in cm sunt citite de pe mediul standar de intrare.
+(n,m apartin lui N*).
+
+Input:
+Numarul de randuri: 5
+Numarul de soldati pe un rand: 4
+Inaltimile soldatilor in cm:
+
+         173 186 168 178
+         
+         184 179 184 169 
+         
+         177 165 177 165
+         
+         189 179 186 189
+         
+         185 185 183 183
+
+Output ->
+
+Primul purtator de steag are inaltimea 183 cm
+
+El se afla pe randul 5 in pozitia 3
+
+Al doilea purtator de steag are inaltimea 177 cm
+
+El se afla pe randul 3 in pozitia 1
