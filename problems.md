@@ -100,10 +100,13 @@ numar corespunzand unei linii, cat si suma lor.
 
 Exemple:
 
+Input: 
+
 n = 5
 
 m = 4
 
+Output: 
 
 0 0 1 1
 
@@ -131,6 +134,8 @@ calculeze sumele elementelor din interiorul acestor triunghiuri (elementele de p
 
 n = 5
 
+Input:
+
 Matrix -->
 
  1  2  3  4  5
@@ -142,6 +147,8 @@ Matrix -->
 16 17 18 19 20
 
 21 22 23 24 25
+
+Output:
 
 Sus: S1 = 17
 
