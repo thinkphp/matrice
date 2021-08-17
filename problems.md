@@ -196,5 +196,30 @@ Output:
       3 5 8
       
       13 21 34
+
+## #8
+Se da o matrice M de tip (n,m) cu elemente intregi. Sa se afiseze matricea M prin eliminarea liniilor si coloanelor la intersectia carora se afla
+un numar natural a carui conversie in baza 2 are cel putin doua cifre egale cu 1. Nu se vor utiliza structuri de date auxiliare.
+
+Example:
+
+n = 4, m = 5
+
+       2 0 8 16 8
        
+       32 5 8 2 4
+       
+       64 1 0 9 0
+       
+       4 2 15 1 8
+       
+
+Output ->
+
+Elementele care indeplinesc conditia sunt 5 si 9. Se elimina linia 2 si coloana 2, apoi linia 2 si coloana 3.
+
+
+       2 8 8
+       
+       4 16 8
 
