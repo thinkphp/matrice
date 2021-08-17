@@ -93,5 +93,25 @@ Outout ->
     2 15 9
     
     31 6 0
-    
+
+## #4
+Se da o matrice binara de tip (n,m). Fiecare linie retine cifrele reprezentarii binare a unui numar natural. SE cere afisarea numerelor naturale in baza 10, un 
+numar corespunzand unei linii, cat si suma lor.
+
+Exemple:
+
+n = 5
+
+m = 4
+
+
+0 0 1 1       3   
+
+1 0 0 1       9  
+
+1 1 1 0      14    31 
+
+0 0 0 0       0 
+
+0 1 0 1       5  
     
