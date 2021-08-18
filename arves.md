@@ -63,6 +63,17 @@ Se da o matrice M cu n linii si n coloane, cu elemente intregi. Sa se calculeze:
 
 5. Cautari
 
+Se da o matrice M cu n linii si m coloane, elemente intregi. Sa se determine:
+- primul element par din matrice
+- ultimul element par din matrice
+- al p-lea element par din matrice
+- primul element par de pe linia p
+- ultimul element par de pe linia o
+- al p-lea element par de pe linia p
+- primul element par de pe coloana p
+- ultimul element par de pe coloana p
+- al p-lea element par de pe coloana p
+
 6. Verificari
 
 7. Maxime 
