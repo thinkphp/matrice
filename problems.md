@@ -294,3 +294,13 @@ El se afla pe randul 5 in pozitia 3
 Al doilea purtator de steag are inaltimea 177 cm
 
 El se afla pe randul 3 in pozitia 1
+
+## #12
+
+Lui Hatze i s-a parut ca tortul pe care-l pregatise pentru
+invitatii de ziua lui este prea putin ornat, chiar si cam mic.
+El s-a hotarat, cu strangere de inima, sa umble la rezerva Lui
+de ciocolata si sa aseze bomboane de ciocolata pe marginile
+tortului. Sa renunte la ele i-a fost mai greu decat sa rezolve
+teoretic problema: Sa se genereze o matrice binara si sa se
+bordeze cu valori 2.
