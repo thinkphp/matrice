@@ -41,6 +41,24 @@ Se da o matrice M cu n linii si n coloane, cu elemente intregi. Sa se calculeze:
 
 3. Numarare
 
+- numarul elementelor pozitive din matrice.
+- numarul elementelor negative din matrice.
+- numarul elementelor pare din matrice.
+- numarul elementelo, din matrice, care se afla in intervalul [-1, 9] si pe coloane pare.
+- numarul elementelor, din matrice, care sunt impare si se gasesc pe diagonala principala.
+- numarul elementelor, din matrice, care sunt < 24 si se gasesc pe diagonala principala pe linii pare.
+- numarul elementelor, din matrice, care sunt patrate perfecte si care se gasesc sub diagonala principala pe linii pare si coloane impare.
+- numarul elementelor, din matrice, care se termina in 3 si se gasesc sub diagonala principala.
+- numarul elementelor, din matrice, care sunt impare si se gasesc deasupra diagonalei principale.
+- numarul elementelor, din matrice, care sunt mai mici decat 24 si se gasesc deasupra diagonalei principale pe linii pare.
+- numarul elementelor, din matrice, care sunt patrate perfecte si se gasesc deasupra diagonalei principale pe linii pare si coloane impare.
+- numarul elementelor, din matrice, care se termina in 3 si se gasesc deasupra diagonalei principale.
+- numarul elementelor, din matrice, care sunt impare si se gasesc pe diagonala principala.
+- numarul elementelor, din matrice, care sunt mai mici decat 24 si se gasesc pe diagonala principala pe linii pare.
+- numarul elementelor, din matrice, care sunt patrate perfecte si se gasesc pe diagonala principala pe linii pare si coloane impare.
+- numarul elementelor, din matrice, care se termina in 3 si se gasesc pe diagonala principala.
+
+
 4. Medii aritmetice
 
 5. Cautari
