@@ -47,7 +47,7 @@ Se da o matrice M cu n linii si n coloane, cu elemente intregi. Sa se calculeze:
 
 6. Verificari
 
-7. Maxime
+7. Maxime 
 Se da o matrice M cu n linii si m coloane:
 - maximul elementelor din matrice.
 - maximul elementelor de pe diagonala principala.
@@ -67,6 +67,24 @@ Se da o matrice M cu n linii si m coloane:
 - maximul elementelor pare, de pe coloana p.
 
 8. Minime
+
+Se da o matrice M cu n linii si m coloane:
+- minimul elementelor din matrice.
+- minimul elementelor de pe diagonala principala.
+- minimul elementelor de pe diagonala secundara.
+- minimul elementelor, de sub diagonala secundara
+- minimul elementelor, de deasupra diagonalei principala
+- minimul elementelor, de deasupra diagonalei secundare
+- minimul elementelor, de pe linia p
+- minimul elementelor, de pe coloana p
+- minimul elementelor pare din matrice
+- minimul elementelor pare din matrice, de pe diagonala principala
+- minimul elementelor pare din matrice, de pe diagonala secundara
+- minimul elementelor pare din matrice, de sub diagonala principala
+- minimul elementelor pare din matrice, de deasupra diagonalei principale.
+- minimul elementelorpare, de pe linia p.
+- minimul elementelor pare, de pe coloana p.
+
 
 9. Constructii
 
