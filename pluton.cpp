@@ -64,7 +64,9 @@ int main(int argc, char const *argv[]) {
   }
 
   cout<<"Primul purtator de steag are inaltimea: "<<minmax<<"\n";
+  cout<<"Se afla pe randul "<<rand<<" si pe pozitia "<<pos[rand]<<" \n";
 
+  
   for(int i = 1; i <= n; i++) {
 
      min[i] = matrix[i][1];
@@ -87,9 +89,6 @@ int main(int argc, char const *argv[]) {
         rand = k;
       }
   }
-
-
-  cout<<"Se afla pe randul "<<rand<<" si pe pozitia "<<pos[rand]<<" \n";
 
   cout<<"Al doilea purtator de steag are inaltimea: "<<minmax<<"\n";
   cout<<"Se afla pe randul "<<rand<<" si pe pozitia "<<pos[rand];
