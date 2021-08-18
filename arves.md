@@ -82,5 +82,5 @@ Sa se modifice A astfel:
 - se interschimba coloanele astfel incat elementele de pe linia k sa fie sortatea crescator (descrescator)
 - se interschimba liniile astfel incat elementele de pe coloana k sa fie sortatea crescator (descrescator)
 - se interschimba liniile si coloanele astfel incat elementele de pe diagonala principala sa fie sortate crescator (descrescator)
-- - se interschimba liniile si coloanele astfel incat elementele de pe diagonala secundara sa fie sortate crescator (descrescator)
+- se interschimba liniile si coloanele astfel incat elementele de pe diagonala secundara sa fie sortate crescator (descrescator)
 10. Probleme de afisare
