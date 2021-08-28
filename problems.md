@@ -314,19 +314,19 @@ Input ->
 
 n = 3, m = 3
 
-   1 2 3
+     1 2 3
    
-   4 5 6
+     4 5 6
    
-   7 8 9
+     7 8 9
 
 Ouput ->
 
-   9 8 7
+     9 8 7
    
-   6 5 4
+     6 5 4
    
-   3 2 1
+     3 2 1
 Hint:
 Algoritmul liniarizeaza matricea folosind vectorul auxiliar v.
 Astfel, oricare element al matricei A[i][j] se va regasi in
