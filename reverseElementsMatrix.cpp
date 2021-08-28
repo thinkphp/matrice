@@ -1,5 +1,5 @@
 /*
-Se considera un tablou bidimensional A(n,m) cu elemente intregi.
+Se considera un tablou bidimensional Matrix(n,m) cu elemente intregi.
 Realizati un program care inverseaza elementele tabloului, prin intermediul
 unul vector de n * m elemente:
 Input ->
@@ -13,7 +13,7 @@ Ouput ->
 6 5 4
 3 2 1
 Hint:
-Algoritmul liniarizeaza matricea folosind vectorul auxiliar v.
+Algoritmul liniarizeaza matricea folosind vectorul auxiliar V.
 Astfel, oricare element al matricei A[i][j] se va regasi in
 vector pe pozitia V[i * m + j].
 */
@@ -47,11 +47,14 @@ int main(int argc, char const *argv[]) {
 
 int matrix[100][100], v[100], i, j, n, m;
 
+cout<<"lines = ";
 cin>>n;
+cout<<"columns =";
 cin>>m;
 
 for(i = 0; i < n; ++i) {
    for(j = 0; j < m; ++j) {
+     cout<<"matrix["<<i<<"]["<<j<<"] = ";
      cin>>matrix[i][j];
    }
 }
