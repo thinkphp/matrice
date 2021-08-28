@@ -311,14 +311,22 @@ Se considera un tablou bidimensional A(n,m) cu elemente intregi.
 Realizati un program care inverseaza elementele tabloului, prin intermediul
 unul vector de n * m elemente:
 Input ->
+
 n = 3, m = 3
-1 2 3
-4 5 6
-7 8 9
+
+   1 2 3
+   
+   4 5 6
+   
+   7 8 9
+
 Ouput ->
-9 8 7
-6 5 4
-3 2 1
+
+   9 8 7
+   
+   6 5 4
+   
+   3 2 1
 Hint:
 Algoritmul liniarizeaza matricea folosind vectorul auxiliar v.
 Astfel, oricare element al matricei A[i][j] se va regasi in
