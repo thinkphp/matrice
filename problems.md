@@ -305,7 +305,7 @@ tortului. Sa renunte la ele i-a fost mai greu decat sa rezolve
 teoretic problema: Sa se genereze o matrice binara si sa se
 bordeze cu valori 2.
 
-## #13
+## #13 https://ideone.com/Sr5jAk (python) https://ideone.com/0UNCVj (c++)
 
 Se considera un tablou bidimensional A(n,m) cu elemente intregi.
 Realizati un program care inverseaza elementele tabloului, prin intermediul
